@@ -1,0 +1,75 @@
+body {
+    width: 980px;
+    height: 680px;
+    background-color: cyan;
+    display: table;
+    margin: auto;
+}
+
+header {
+    height: 150px;
+    background-color: red;
+}
+
+header img{
+    margin-top: -59px
+}
+
+header h1{
+    text-align: center;
+    margin-left: 335px; 
+}
+
+nav {
+    height: 80px;
+    background-color: green;
+    color: white;
+}
+
+nav a{
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: black;
+}
+
+article {
+    width: 580px;
+    height: 420px;
+    background-color: white;   
+    float: right;
+}
+
+article form{
+    margin-left: 15px;
+}
+
+aside {
+    width: 400px;
+    height: 420px;
+    background-color: yellow;   
+    float: left;
+}
+
+aside img{
+    height: 350px;
+}
+
+footer {
+    height: 80px;
+    background-color: brown;
+    clear: both;
+}
+
+footer p{
+    display: table;
+    text-align: center;
+    margin: auto;
+    padding-top: 25px;
+}
+
+
+
